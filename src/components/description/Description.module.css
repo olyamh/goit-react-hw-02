@@ -1,0 +1,14 @@
+.appTitle{
+    text-transform: capitalize;
+}
+
+
+
+.descWrapper{
+   display: flex;
+   flex-direction: column;
+   row-gap: 20px;
+   align-items: flex-start;
+   justify-content: flex-end;
+margin-bottom: 10px;
+}
